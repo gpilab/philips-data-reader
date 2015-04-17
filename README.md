@@ -1,6 +1,8 @@
 # Philips Raw Data Reader Node
 This project hosts the Philips raw data reader node for GPI in binary form for
-easy access.
+easy access.  The source code for this project is closed and can only be obtained with direct
+permission from Philips.  If you are interested in acquiring a copy, contact
+your Philips representative.
 
 ## Description
 A module for reading in Philips MR Scanner data.
