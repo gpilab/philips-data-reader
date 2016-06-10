@@ -53,4 +53,4 @@ Current supported formats include: .data, .list, .lab, .raw, .sin, .par, .xml,
 
 ## Installation
 Download the latest release corresponding to your platform (Linux or OSX) to
-your `~/gpi` directory (or a directory that is in your `LIB_PATH`, as shown in the [configuration documentation](http://docs.gpilab.com/Configuration/)), unzip and restart GPI.
+your `~/gpi` directory (or a directory that is in your `LIB_PATH`, as shown in the [configuration documentation](http://docs.gpilab.com/en/develop/config.html)), unzip and restart GPI.
