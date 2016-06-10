@@ -53,4 +53,7 @@ Current supported formats include: .data, .list, .lab, .raw, .sin, .par, .xml,
 
 ## Installation
 Download the latest release corresponding to your platform (Linux or OSX) to
-your `~/gpi` directory (or a directory that is in your `LIB_PATH`, as shown in the [configuration documentation](http://docs.gpilab.com/en/develop/config.html)), unzip and restart GPI.
+your `~/gpi` directory (or a directory that is in your `LIB_PATH`, as shown in the [configuration documentation](http://docs.gpilab.com/en/develop/config.html)), unzip and restart GPI.  Also checkout
+the post on the [Philips Raw Data Reader](http://gpilab.com/2015/04/philips-raw-data-reader/) as well
+as the post on [Installing Node Libraries](http://gpilab.com/2015/06/installing-node-libraries/) for
+more information.
