@@ -16,7 +16,7 @@ Current supported formats include: .data, .list, .lab, .raw, .sin, .par, .xml,
 | data | MR data from file |
 | noise | noise measurement data |
 | phc | phase data for EPI correction |
-| user_parms | scan information written to .txt file - requires appropriate addition to methods code |
+| spiralparms | MRTDG spiral specific scan information |
 | header | information from Philips header files (.list, .sin, .lab, .par, .xml) |
 
 ### WIDGETS
